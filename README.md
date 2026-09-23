@@ -23,11 +23,31 @@ All resources related to AI Evals, regularly updated. Please feel free to raise 
 10. https://www.indiehackers.com/
 11. https://mlops.community/blog
 12. Tool calling: https://machinelearningmastery.com/the-roadmap-to-mastering-tool-calling-in-ai-agents/
-13. 
+
 
 ## Youtube Channels and videos on evals
 1. Great free course on AI evals: https://youtu.be/qQIOUxhC4Xs
 2. AI evals: https://www.youtube.com/watch?v=71qvIkO9d_A
 3. Evals 101: https://www.youtube.com/watch?v=bk0TmxoZlUY
-4. 
-   
+
+## Other platforms/tools/products that I use and ones that might be useful to you in your quest to become an AI Evals PM
+1. Claude code: https://claude.com/product/claude-code
+2. Claude Playground for Prompt Engineering: https://platform.claude.com/workspaces/default/playground
+3. OpenClaw for Automation: https://openclaw.ai/
+4. Azure for hosting infra: https://azure.microsoft.com/
+5. Azure AI foundry: https://ai.azure.com/home
+6. Github for Code Repositories: https://github.com/
+7. Visual Studio for Agentic Coding: https://visualstudio.microsoft.com/
+8. Whiteboarding, brainstorming ideas: https://excalidraw.com/
+9. Blog Writing: https://feelinspired.medium.com/
+10. Video Editing: https://clipchamp.com/en/
+
+## Claude Skills that I use
+1. xlsx
+2. pptx
+3. docx
+4. pdf
+
+## Model I use for model tuning practice
+https://huggingface.co/Qwen
+
