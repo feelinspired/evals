@@ -1,5 +1,5 @@
 # AI evals
-All resources related to AI Evals, regularly updated. Please feel free to raise an issue or a PR if you have suggestions to better resources. Happy AI Eval Learning! 
+All resources related to AI Evals, regularly updated. Please feel free to raise an issue if you have suggestions to better resources. Happy AI Eval Learning! 
 
 ## Getting started on AI evals? These are the best, free courses to start
 1. https://www.decodingai.com/p/the-ai-evals-roadmap-i-wish-i-had
