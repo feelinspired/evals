@@ -53,5 +53,7 @@ https://huggingface.co/Qwen
 
 ## Books (Paid)
 1. Evals for AI Engineers by Shreya Shankar and Hamel Husain - https://www.oreilly.com/library/view/evals-for-ai/9798341660717/
+2. Evals for AI Engineers by Johnathon Carnathan - https://www.amazon.com/Evals-Engineers-Practical-Monitoring-Applications-ebook/dp/B0HF7VS4D4/ref=sr_1_1?s=digital-text&sr=1-1&text=Johnathon+Carnathan
+   
    
 
