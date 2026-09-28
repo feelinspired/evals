@@ -51,3 +51,7 @@ All resources related to AI Evals, regularly updated. Please feel free to raise 
 ## Model I use for model tuning practice
 https://huggingface.co/Qwen
 
+## Books (Paid)
+1. Evals for AI Engineers by Shreya Shankar and Hamel Husain - https://www.oreilly.com/library/view/evals-for-ai/9798341660717/
+   
+
